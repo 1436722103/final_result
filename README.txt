@@ -1,0 +1,2 @@
+首先从state_trans.py开始，运行所需的文件在代码中有具体的说明，运行完这个代码后，运行totalprocess.py,到这里第一步计算完毕
+第二步的输入是第一步的推荐列表和根据node2vec计算的envSim.txt,运行recom2.py获得最终的结果。
